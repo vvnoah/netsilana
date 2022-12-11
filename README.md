@@ -1,2 +1,6 @@
 # Netsilana
-This is a website for my fraternity
+Dit is een website voor mijn studentenvereniging
+
+## Router
+Voor routing gebruik ik phprouter van github.
+https://github.com/phprouter/main
