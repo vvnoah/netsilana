@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+:root {
+    --clr-primary: white;
+    --clr-secondary: black;
+    --clr-accent: orange;
+
+    --font-size: 16px;
+    --border-radius: 0.2em;
+}
+
+body {
+    position: relative;
+    z-index: 1;
+    font-size: var(--font-size);
+    color: var(--clr-secondary);
+    height: 100vh;
+    width: 100%;
+}
